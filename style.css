@@ -106,6 +106,10 @@ h1{
         width: 100%;
         display: flex;
         justify-content: center;
+        top: 71%;
+    }
+    h1{
+        top: 60%;
     }
 }
 
