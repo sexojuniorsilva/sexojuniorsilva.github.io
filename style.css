@@ -121,3 +121,16 @@ h1{
         justify-content: center;
     }
 }
+
+@media screen and (max-width:590px){
+    .sm{
+        float: none;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        top: 73%;
+    }
+    h1{
+        top: 62%;
+    }
+}
